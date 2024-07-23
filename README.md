@@ -1,13 +1,13 @@
 # ESO-External-Music-Tool-Addon
 
-a simple UI to swap EAC on and off for Elden Ring.. written in c#
+this is an external tool which runs along-side an ingame addon to allow the game to have 'custom' music, it is not perfect and i may update in future, but it works 
 
-> - has worked since release, just drop in the game directory and create a shortcut, i cleaned up the final exe
+> - contains everything required to run, just not the music, since i dont legally own any of the music i built this for,  you can add your own to the folders accordingly
 
 # To Use:
-Place the .rar contents in the Elden Ring Base Folder, launch using the EldenRingLauncher2.exe to pull up the menu
+Open the .rar file, inside will be the program,  for this program to run properly, you must also install the included ESO addon, there is a text document that tells you where to drag and drop the contents to
 
-this will allow you to: 1) launch the game normally    2) launch with EAC disabled or enabled   3) launch with seam-less co-op
+there is a Config.JSON - 1) this allows you to set the volume, 2) start at a random song anytime a songs folder is loaded, i.e combat, openworld, dungeon etc 3) Disable Combat music incase you hate that it changes when fights end so quickly, be at peace 😌
 
 ![Screenshot](screenshot_1.png)
 
