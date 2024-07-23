@@ -9,8 +9,7 @@ Open the .rar file, inside will be the program,  for this program to run properl
 
 there is a Config.JSON - 1) this allows you to set the volume, 2) start at a random song anytime a songs folder is loaded, i.e combat, openworld, dungeon etc 3) Disable Combat music incase you hate that it changes when fights end so quickly, be at peace 😌
 
-![Screenshot](Screenshot1.png)
-![Screenshot](Screenshot2.png)
+![Screenshot](Screenshot1.png) ![Screenshot](Screenshot2.png)
 ![Screenshot](Screenshot3.png)
 ![Screenshot](Screenshot4.png)
 
