@@ -11,7 +11,4 @@ there is a Config.JSON - 1) this allows you to set the volume, 2) start at a ran
 
 # BELOW ARE SOME EXAMPLES OF IT WORKING IN DIFFERENT AREAS / STATE OF COMBAT
 
-![Screenshot](Screenshot1.png) ![Screenshot](Screenshot2.png)
-![Screenshot](Screenshot3.png)
-![Screenshot](Screenshot4.png)
-
+![Screenshot](Screenshot1.png) 
