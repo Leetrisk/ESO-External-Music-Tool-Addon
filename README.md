@@ -9,7 +9,10 @@ this is an external tool which runs along-side an ingame addon to allow the game
 # To Use:
 Open the .rar file, inside will be the program,  for this program to run properly, you must also install the included ESO addon, there is a text document that tells you where to drag and drop the contents to
 
-there is a Config.JSON - 1) this allows you to set the volume, 2) start at a random song anytime a songs folder is loaded, i.e combat, openworld, dungeon etc 3) Disable Combat music incase you hate that it changes when fights end so quickly, be at peace 😌
+# there is a Config.JSON
+> -  1) this allows you to set the volume
+> -  2) start at a random song anytime a songs folder is loaded, i.e combat, openworld, dungeon etc 
+> -  3) Disable Combat music incase you hate that it changes when fights end so quickly, be at peace 😌
 
 # BELOW ARE SOME EXAMPLES OF IT WORKING IN DIFFERENT AREAS / STATE OF COMBAT
 
